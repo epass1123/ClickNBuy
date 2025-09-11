@@ -1,15 +1,12 @@
 ## ClickNBuy - 온라인 간편 주문 서비스
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/55768e44-58db-45c0-9980-dad9d7b09eae" />
 
----
 
 ### 👀 프로젝트 소개
 
 온라인 간편 주문 서비스로, 간편 주문 및 주문 관리를 할 수 있는 서비스입니다.
 
 ## 👨‍👩‍👧‍👦 팀 구성
-
----
 
 - 팀원 4명
 
@@ -20,9 +17,11 @@
 - 결제수단 도메인 개발
 - 대시보드 도메인 개발
 
-# 🛠️ 프로젝트 사용 기술 및 라이브러리
+## 프로젝트 기간
 
----
+- 2024.06~2024.08
+
+# 🛠️ 프로젝트 사용 기술 및 라이브러리
 
 **Frontend**
 
@@ -52,8 +51,6 @@
 - notion | figma | Jira | Slack
 
 ## 👀 서비스 소개
-
----
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/025cceb9-797a-4267-89d5-9b98beff484f" />
 
@@ -87,13 +84,9 @@ ClickNBuy는 사용자 참여율을 좀 더 높이기 위해 PWA(Progressive Web
 
 # 🏛️ **Infrastructure**
 
----
-
 <img width="2048" height="1152" alt="image" src="https://github.com/user-attachments/assets/65e79a58-0aa9-401c-848d-fd2cf1862fa1" />
 
 
 ## 🏆 Prize
-
----
 
 - 최종 프로젝트 우수상 👑
